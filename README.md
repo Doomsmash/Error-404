@@ -2,4 +2,4 @@
 
 this is an error page
 
-[Error page](Error_404.html)
+[Error page](https://doomsmash.github.io/Error-404/)
